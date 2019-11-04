@@ -1,0 +1,6 @@
+debian/stsbl-iserv-server-all-knowing-dns/*
+debian/stsbl-iserv-server-all-knowing-dns.substvars
+debian/stsbl-iserv-server-all-knowing-dns.debhelper.log
+debian/files
+debian/debhelper-build-stamp
+debian/*.debhelper

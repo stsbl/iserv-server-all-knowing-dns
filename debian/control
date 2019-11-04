@@ -1,0 +1,17 @@
+Source: stsbl-iserv-server-all-knowing-dns
+Section: misc
+Priority: optional
+Maintainer: Stadtteilschule Blankenese <repository@stsbl.de>
+Build-Depends: debhelper (>= 10)
+Build-Depends-Indep: iserv3-dev
+Standards-Version: 4.4.1
+
+Package: stsbl-iserv-server-all-knowing-dns
+Architecture: all
+Depends: ${misc:Depends},
+  ${perl:Depends},
+  iserv-update,
+  all-knowing-dns (>= 1.7.1~stsbl+1-1),
+Description: AllKnowingDNS server
+ Provides basic configuration for an AllKnowingDNS-Server.
+Tag: suite::iserv
