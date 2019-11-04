@@ -1,0 +1,4 @@
+# entry for functional test
+network ::1/128
+	resolves to localhost
+

@@ -1,0 +1,6 @@
+Test "all-knowing-dns working"
+  [ "$(dig +short -x ::1 @127.0.0.1)" = "localhost." ]
+  ---
+  service all-knowing-dns restart
+  sleep 5
+
