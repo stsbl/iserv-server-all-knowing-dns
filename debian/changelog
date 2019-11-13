@@ -1,3 +1,10 @@
+stsbl-iserv-server-all-knowing-dns (19.11.13-1) stable; urgency=medium
+
+  * Added fifteen-minutely cronjob to ensure that all-knowing-dns is still
+    working
+
+ -- Felix Jacobi <Felix@jacobi-hamburg.net>  Wed, 13 Nov 2019 05:40:41 +0100
+
 stsbl-iserv-server-all-knowing-dns (19.11.04-1) stable; urgency=medium
 
   * Added iservchk scripts and IConf templates
