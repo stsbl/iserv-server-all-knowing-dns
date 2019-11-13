@@ -10,7 +10,7 @@ Package: stsbl-iserv-server-all-knowing-dns
 Architecture: all
 Depends: ${misc:Depends},
   ${perl:Depends},
-  iserv-update,
+  iserv-update (>= 19.10.29-1),
   all-knowing-dns (>= 1.7.1~stsbl+1-1),
 Description: AllKnowingDNS server
  Provides basic configuration for an AllKnowingDNS-Server.
