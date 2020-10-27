@@ -2,9 +2,9 @@
 
 netquery 'listen ip'
 
-if [ -x "/usr/sbin/nequery6" ]
+if [ -x "/usr/sbin/netquery6" ]
 then
-  nequery6 -gu "listen ip"
+  netquery6 -gu "listen ip"
 fi
 
 echo
