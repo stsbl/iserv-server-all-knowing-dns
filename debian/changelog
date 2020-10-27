@@ -2,7 +2,7 @@ stsbl-iserv-server-all-knowing-dns (20.10.28-1) stable; urgency=medium
 
   * Fixed ipv6 support
 
-  -- Felix Jacobi <Felix@jacobi-hamburg.net>  Sun, 02 Aug 2020 12:43:33 +0200
+ -- Felix Jacobi <Felix@jacobi-hamburg.net>  Sun, 02 Aug 2020 12:43:33 +0200
 
 stsbl-iserv-server-all-knowing-dns (19.11.13-1) stable; urgency=medium
 
