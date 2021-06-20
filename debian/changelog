@@ -1,3 +1,10 @@
+stsbl-iserv-server-all-knowing-dns (21.06.20.1) stable; urgency=medium
+
+  * Moved to iservinstall, updated copyright
+  * Added homepage
+
+ -- Felix Jacobi <Felix@jacobi-hamburg.net>  Sun, 20 Jun 2021 21:55:58 +0200
+
 stsbl-iserv-server-all-knowing-dns (20.10.28-1) stable; urgency=medium
 
   * Fixed ipv6 support
